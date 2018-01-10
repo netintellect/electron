@@ -1,11 +1,11 @@
 {
-  "name": "angular-electron",
-  "version": "2.4.1",
-  "description": "Angular 5 with Electron (Typescript + SASS + Hot Reload)",
-  "homepage": "https://github.com/maximegris/angular-electron",
+  "name": "Batch-Operator",
+  "version": "1.0.0",
+  "description": "Electron-based client for managing bartch process",
+  "homepage": "https://github.com/netintellect/electron",
   "author": {
-    "name": "Maxime GRIS",
-    "email": "maxime.gris@gmail.com"
+    "name": "Patrick Wolfs",
+    "email": "patrick.wolfs@netintellect.be"
   },
   "keywords": [
     "angular",
